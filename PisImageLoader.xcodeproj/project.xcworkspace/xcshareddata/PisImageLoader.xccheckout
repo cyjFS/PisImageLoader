@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>01419389-5DFE-46E3-A7EA-5EE57ED7DEB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PisImageLoader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6DE5D6228F56F61658A6E3F67AB67DB6E275881</key>
+		<string>https://github.com/cyjFS/PisImageLoader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PisImageLoader.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6DE5D6228F56F61658A6E3F67AB67DB6E275881</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cyjFS/PisImageLoader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6DE5D6228F56F61658A6E3F67AB67DB6E275881</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6DE5D6228F56F61658A6E3F67AB67DB6E275881</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PisImageLoader</string>
+		</dict>
+	</array>
+</dict>
+</plist>

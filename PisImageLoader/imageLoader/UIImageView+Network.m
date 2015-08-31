@@ -246,7 +246,7 @@ static const ImageViewLoadingStyle DefaultLoadingStyle = ImageViewLoadingStyleNo
                                                           }
                                                           
                                                           if (finish) {
-                                                              dispatch_sync(dispatch_get_main_queue(), ^{
+                                                              dispatch_async(dispatch_get_main_queue(), ^{
                                                                   finish(image);
                                                               });
                                                           }
@@ -408,7 +408,7 @@ static const ImageViewLoadingStyle DefaultLoadingStyle = ImageViewLoadingStyleNo
             
             NSData *imageData = [NSData dataWithContentsOfFile:cachedFilePath];
             if (finish) {
-                dispatch_sync(dispatch_get_main_queue(), ^{
+                dispatch_async(dispatch_get_main_queue(), ^{
                     UIImage *image = [[UIImage alloc] initWithData:imageData];
                     
                     if (image) {
